@@ -1,0 +1,6 @@
+﻿  WindowsProjectTest.cpp
+E:\Workspace\CPP\internet\Test with clang\Week2\Async\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(104,42): warning C4302: 'type cast': truncation from 'const char *' to 'WORD'
+E:\Workspace\CPP\internet\Test with clang\Week2\Async\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(234): warning C4715: 'windowProc': not all control paths return a value
+  WindowsProjectTest.vcxproj -> E:\Workspace\CPP\internet\Test with clang\Week2\Async\WindowsProjectTest\x64\Debug\WindowsProjectTest.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
